@@ -22,7 +22,7 @@
         </div>
         <div style="margin-top: 20px;">
             <h3 style="font-size: 20px; color: #555;">About Me:</h3>
-            <p style="font-size: 18px; color: #333;">I am an Associate Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. I am constantly seeking opportunities to reach new cybersecurity standards and achieve operational goals.</p>
+            <p style="font-size: 18px; color: #333;">I am an Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. I am constantly seeking opportunities to reach new cybersecurity standards and achieve operational goals.</p>
         </div>
     </div>
 </body>
