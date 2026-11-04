@@ -117,24 +117,6 @@ Pick a handle before you play, then watch your name climb the leaderboard. Score
 - 🎨 **Mode control.** Press **M** for night and day themes, scenarios, effects and a recruiter-friendly skim mode.
 - 🥚 **Easter eggs.** A few are tucked away. Try the terminal, an old cheat code, and a quick look under the hood.
 
----
-
-## 🏅 Credentials, a taste of the Vault
-
-![CEH v11](https://img.shields.io/badge/CEH_v11-ff2e63?style=flat-square)
-![CRTOM](https://img.shields.io/badge/RED_TEAM_LEADERS_·_CRTOM-ff2e63?style=flat-square)
-![Offensive IAM Exploitation](https://img.shields.io/badge/OFFENSIVE_IAM_EXPLOITATION-a66bff?style=flat-square)
-![API Penetration Testing](https://img.shields.io/badge/API_PENETRATION_TESTING-ffb020?style=flat-square)
-![Practical Web App Security](https://img.shields.io/badge/PRACTICAL_WEB_APP_SECURITY-ffb020?style=flat-square)
-![Digital Forensics Essentials](https://img.shields.io/badge/DIGITAL_FORENSICS_ESSENTIALS-00ff9c?style=flat-square)
-![CrowdStrike Falcon Identity](https://img.shields.io/badge/CROWDSTRIKE_·_FALCON_IDENTITY-38bdf8?style=flat-square)
-![CrowdStrike Falcon Cloud](https://img.shields.io/badge/CROWDSTRIKE_·_FALCON_CLOUD-38bdf8?style=flat-square)
-![CrowdStrike Zero Trust](https://img.shields.io/badge/CROWDSTRIKE_·_ZERO_TRUST-38bdf8?style=flat-square)
-![CrowdStrike EASM](https://img.shields.io/badge/CROWDSTRIKE_·_FALCON_EASM-38bdf8?style=flat-square)
-
-The full list, with verification links, is waiting in **The Vault**.
-
----
 
 ## 📡 Say hello
 
@@ -142,12 +124,6 @@ The full list, with verification links, is waiting in **The Vault**.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-anoop--bose-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-bose-096650126/)
 [![GitHub](https://img.shields.io/badge/GITHUB-DarkShadow04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkShadow04)
 [![Blog](https://img.shields.io/badge/BLOG-CyberGodOO7-b8ff3a?style=for-the-badge&logo=wordpress&logoColor=black)](https://cybergodoo7.wordpress.com/)
-
----
-
-## 🗄️ Archive
-
-Previous site files are preserved under [`archive/legacy-site/`](archive/legacy-site/) for reference.
 
 <div align="center">
 
